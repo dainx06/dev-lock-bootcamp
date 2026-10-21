@@ -2,8 +2,8 @@
 
 - Student: Nguyen Xuan Dai
 - GitHub: [@dainx06](https://github.com/dainx06)
-- Submitted:2026-10-21
-- Commit:
+- Submitted: 2026-10-21
+- Commit: https://github.com/dainx06/dev-lock-bootcamp/commit/ea86d9df0758dc772fc110f7fabdaa20d3454460
 
 ## 1. Summary
 *Khái niệm: Công nghệ cơ sở dữ liệu phân tán, lưu trữ dữ liệu trong các block liên kết bằng mã hash, giúp dữ liệu minh bạch và khó bị sửa đổi
