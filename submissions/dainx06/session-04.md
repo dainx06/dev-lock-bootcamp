@@ -3,7 +3,7 @@
 * Student: Nguyen Xuan Dai
 * GitHub: @dainx06
 * Submitted: 2026-11-11
-* Commit: 
+* Commit: [S04] add devlog - @dainx06
 
 ## 1. Summary
 Hiểu các cơ chế đồng thuận (Consensus) giúp mạng lưới blockchain hoạt động phi tập trung nhưng vẫn nhất quán.Hiểu được các kiến trúc blockchain cơ bản, sự khác biệt giữa các mô hình lưu trữ và các giải pháp mở rộng (Layer 1, Layer 2).
