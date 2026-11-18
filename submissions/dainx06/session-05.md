@@ -1,7 +1,7 @@
 # Session 05 - Smart Contracts & Digital Assets
 
 - Student: Nguyen Xuan Dai
-- GitHub: [@dainx06]
+- GitHub: @dainx06
 - Submitted: 2026-11-18
 - Commit:[S05] add devlog - @dainx06
 
