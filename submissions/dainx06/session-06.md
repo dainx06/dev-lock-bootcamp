@@ -3,7 +3,7 @@
 * Student: Nguyen Xuan Dai
 * GitHub: [@dainx06](https://github.com/dainx06)
 * Submitted: 2026-11-25
-* Commit: 
+* Commit: [S06] add devlog - @dainx06
 
 ## 1. Summary
 * **Kiến trúc 4 lớp của dApp**: Phân tích luồng hoạt động từ `Frontend → Wallet → Smart Contract → Blockchain (qua RPC)` và tính độc lập của dữ liệu on-chain khi giao diện web ngừng hoạt động.
